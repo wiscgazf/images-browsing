@@ -1,6 +1,6 @@
 {
   "name": "images-browsing",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "图片放大浏览",
   "main": "index.js",
   "scripts": {
